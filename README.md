@@ -147,18 +147,4 @@ Both **Ollama** and the chatbot run in Docker. Access the chatbot at **[http://l
 
 ---
 
-## **📌 Contributing**
 
-- **Fork** this repo, submit **pull requests**, or open **issues** for new features or bug fixes.  
-- We love hearing community suggestions on how to extend or improve the chatbot.
-
----
-
-### **🔗 Connect & Share Your Thoughts!**
-
-Got feedback or suggestions? Let’s discuss on [**Reddit**](https://www.reddit.com/user/akhilpanja/)! 🚀💡
-
----
-
-**Enjoy building knowledge graphs, maintaining conversation memory, and harnessing powerful local LLM inference—all from your own machine.**  
-_The future of retrieval-augmented AI is here—no internet required!_
